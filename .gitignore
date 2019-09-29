@@ -1,0 +1,4 @@
+wiki.exe
+go.exe
+data/*
+!data/FrontPage.txt

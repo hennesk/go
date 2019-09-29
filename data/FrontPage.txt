@@ -1,0 +1,2 @@
+To create a new page, simply attempt to view or edit it.
+E.g. /view/whatever or /edit/whatever would bring you to whatever's edit page.
